@@ -1,0 +1,6 @@
+CipherSuitesChecker/bin
+CipherSuitesChecker/obj
+CipherSuitesChecker.Tests/bin
+CipherSuitesChecker.Tests/obj
+.vs
+TestResults
